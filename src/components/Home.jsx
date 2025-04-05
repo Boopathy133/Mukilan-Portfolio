@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from "react";
-import { name } from "../constants";
+import { name } from "../constants.js"
 import { motion } from "framer-motion";
 // import Footer from "./Footer";
 
