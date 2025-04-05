@@ -3,7 +3,7 @@ import React from 'react';
 import '../App.css';
 import { services } from "../constants/constants";
 import ButtonLink from './ButtonLink';
-import Footer from './Footer';
+// import Footer from './Footer';
 import ServiceCard from './ServiceCard';
 
 const About = () => {
@@ -17,7 +17,7 @@ const About = () => {
               👨‍💻 Hi, I'm <span className="text-blue-300 font-semibold">Mukilan Balakrishnan</span>, a 2026 graduate🎓 passionate about <span className="text-blue-300 font-semibold">Full-Stack Development</span> and <span className="text-blue-300 font-semibold">UI/UX Design</span>.  
               I specialize in <span className="text-blue-300 font-semibold">MERN Stack</span>🚀, creating dynamic, scalable, and efficient web applications.  
               <br />
-              ✍️ Beyond coding, I love sharing knowledge through blogs on <a className='text-green-300 hover:text-green-500 duration-300' href='https://github.com/Mukilanbalakrishnan' target='_blank'>GitHub</a>.
+              ✍️ Beyond coding, I love sharing knowledge through blogs on <a className='text-green-300 hover:text-green-500 duration-300' href='https://github.com/Mukilanbalakrishnan'>GitHub</a>.
             </p>
 
             <ButtonLink
